@@ -1,0 +1,10 @@
+{
+  "model": "runwayml/stable-diffusion-v1-5",
+  "data_dir": "/content/drive/MyDrive/FinSynth-Energy/week7_sd_assets/lora_data",
+  "output_dir": "/content/drive/MyDrive/FinSynth-Energy/week7_sd_assets/lora_weights",
+  "batch_size": 1,
+  "grad_accum": 4,
+  "lr": 0.0001,
+  "max_steps": 800,
+  "precision": "fp16"
+}
